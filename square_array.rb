@@ -5,7 +5,7 @@ def square_array(array)
   new_arr
 end
 
-
+# ADVANCED:
 # def square_array(array)
 #   array.collect{|x| x ** 2}
 # end
